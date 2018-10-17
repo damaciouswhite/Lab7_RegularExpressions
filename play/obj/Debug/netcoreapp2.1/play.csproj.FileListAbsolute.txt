@@ -1,0 +1,11 @@
+/Users/Mace/Projects/play/play/obj/Debug/netcoreapp2.1/play.csprojAssemblyReference.cache
+/Users/Mace/Projects/play/play/obj/Debug/netcoreapp2.1/play.csproj.CoreCompileInputs.cache
+/Users/Mace/Projects/play/play/obj/Debug/netcoreapp2.1/play.AssemblyInfoInputs.cache
+/Users/Mace/Projects/play/play/obj/Debug/netcoreapp2.1/play.AssemblyInfo.cs
+/Users/Mace/Projects/play/play/bin/Debug/netcoreapp2.1/play.deps.json
+/Users/Mace/Projects/play/play/bin/Debug/netcoreapp2.1/play.runtimeconfig.json
+/Users/Mace/Projects/play/play/bin/Debug/netcoreapp2.1/play.runtimeconfig.dev.json
+/Users/Mace/Projects/play/play/bin/Debug/netcoreapp2.1/play.dll
+/Users/Mace/Projects/play/play/bin/Debug/netcoreapp2.1/play.pdb
+/Users/Mace/Projects/play/play/obj/Debug/netcoreapp2.1/play.dll
+/Users/Mace/Projects/play/play/obj/Debug/netcoreapp2.1/play.pdb

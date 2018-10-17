@@ -1,0 +1,11 @@
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/obj/Debug/netcoreapp2.1/Lab7.csprojAssemblyReference.cache
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/obj/Debug/netcoreapp2.1/Lab7.csproj.CoreCompileInputs.cache
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/obj/Debug/netcoreapp2.1/Lab7.AssemblyInfoInputs.cache
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/obj/Debug/netcoreapp2.1/Lab7.AssemblyInfo.cs
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/bin/Debug/netcoreapp2.1/Lab7.deps.json
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/bin/Debug/netcoreapp2.1/Lab7.runtimeconfig.json
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/bin/Debug/netcoreapp2.1/Lab7.runtimeconfig.dev.json
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/bin/Debug/netcoreapp2.1/Lab7.dll
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/bin/Debug/netcoreapp2.1/Lab7.pdb
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/obj/Debug/netcoreapp2.1/Lab7.dll
+/Users/Mace/Desktop/DotNET/Week2/Lab7/play/obj/Debug/netcoreapp2.1/Lab7.pdb
